@@ -9,6 +9,8 @@ CSS => multiclasses, pseudo classe e display flex.
 
 JS => constantes, busca por meio de ID, Busca por meio de classe e etc.
 
+A lógica do projeto é que ao clicar no botão (sol/lua) o modo de exibição do site mudará, de claro para escuro e vice versa. 
+
 <hr>
 
 Visualização do projeto em Desktop:
